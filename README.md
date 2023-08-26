@@ -37,7 +37,7 @@ git clone https://github.com/KunduKamal/Deep-Neural-Network-to-predict-stock-mar
 ```bash
 cd .\Deep-Neural-Network-to-predict-stock-market-up-and-down-movements\
 ```
-Now you can create a virtual environment (Please make sure you have python installed)
+Before proceeding, ensure you have Python installed. You can now set up a virtual environment.
 
 ```bash
 python -m venv env

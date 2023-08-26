@@ -1,4 +1,4 @@
-## LSTM to Predict Stock market Up and Down movements
+## Predicting Stock Market Movements Using LSTM
 We analyzed the closing price returns to forecast future prices. Our model predicts the total return for the next ten days.
 We have chosen this [**LSTM**](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  it solves some common issues found in basic recurrent neural networks, like the vanishing gradients problem. 
 

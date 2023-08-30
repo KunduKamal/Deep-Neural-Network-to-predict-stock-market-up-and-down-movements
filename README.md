@@ -48,7 +48,7 @@ env\\Scripts\\activate.bat
 ```
 Install the requirements:
 ```bash
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 ## Recommandation
 To efficiently run this model, we suggest using Google Colab, as it offers GPU support.This will simplify the procedure and save time.
